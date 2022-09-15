@@ -4,7 +4,10 @@ add String
 add String
 add String
 added changes
+<<<<<<< HEAD
 add String
+=======
+>>>>>>> branch_2
 add String
 add String
 add String
